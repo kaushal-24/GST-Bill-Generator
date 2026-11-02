@@ -1,20 +1,125 @@
 code,item,price,gst_percent
-I01,Notebook,60.00,12
-I02,Pen,10.00,18
-I03,Water Bottle,150.00,18
-I04,Pencil,5.00,5
-I05,Eraser,8.00,5
-I06,Marker,35.00,18
-I07,File Folder,45.00,12
-I08,Stapler,120.00,18
-I09,Sticky Notes,55.00,12
-I10,Highlighter,40.00,18
-I11,Ruler,20.00,5
-I12,Calculator,450.00,18
-I13,Drawing Book,85.00,12
-I14,Glue Stick,30.00,12
-I15,Scissors,90.00,18
-I16,Paper Ream,280.00,12
-I17,Desk Organizer,225.00,18
-I18,Envelope Pack,75.00,5
-I19,idk Pack,69.00,5
+I01,Fiber Laser Marking Machine 20W,125000.00,18
+I02,Fiber Laser Marking Machine 30W,145000.00,18
+I03,Fiber Laser Marking Machine 50W,185000.00,18
+I04,MOPA Fiber Laser Marking Machine,285000.00,18
+I05,Portable Laser Marking Machine,165000.00,18
+I06,Desktop Laser Marking Machine,95000.00,18
+I07,Split Type Laser Marking Machine,155000.00,18
+I08,3D Laser Marking Machine,450000.00,18
+I09,UV Laser Marking Machine,350000.00,18
+I10,CO2 Laser Marking Machine,175000.00,18
+I11,Enclosed Fiber Laser Marking Machine,225000.00,18
+I12,Rotary Laser Marking Machine,195000.00,18
+I13,Handheld Laser Welding Machine,285000.00,18
+I14,Portable Laser Welding Machine,325000.00,18
+I15,Air Cooled Laser Welding Machine,245000.00,18
+I16,Water Cooled Laser Welding Machine,365000.00,18
+I17,Automatic Laser Welding Machine,650000.00,18
+I18,Jewellery Laser Welding Machine,185000.00,18
+I19,Precision Laser Welding Machine,425000.00,18
+I20,Industrial Fiber Laser Welding Machine,550000.00,18
+I21,Laser Cleaning Machine,275000.00,18
+I22,Handheld Laser Cleaning Machine,245000.00,18
+I23,Fiber Laser Cutting Machine,850000.00,18
+I24,CO2 Laser Cutting Machine,325000.00,18
+I25,Desktop Laser Engraving Machine,85000.00,18
+I26,Fiber Laser Engraving Machine,165000.00,18
+I27,Industrial Laser Engraving Machine,285000.00,18
+I28,Galvo Laser Scanner Head,35000.00,18
+I29,F-Theta Scan Lens 110x110mm,8500.00,18
+I30,F-Theta Scan Lens 175x175mm,12500.00,18
+I31,F-Theta Scan Lens 200x200mm,16500.00,18
+I32,F-Theta Scan Lens 300x300mm,28500.00,18
+I33,Field Lens Protective Cover,1200.00,18
+I34,Fiber Laser Output Cable,6500.00,18
+I35,Laser Welding Gun,28500.00,18
+I36,Laser Welding Gun Protective Cover,1800.00,18
+I37,Laser Welding Wire Feeder,18500.00,18
+I38,Laser Welding Wire Feeder Motor,8500.00,18
+I39,Laser Welding Nozzle Set,3500.00,18
+I40,Laser Welding Copper Nozzle,650.00,18
+I41,Laser Welding Ceramic Nozzle,950.00,18
+I42,Laser Welding Protective Lens,1800.00,18
+I43,Laser Welding Focusing Lens,4500.00,18
+I44,Laser Welding Collimating Lens,5500.00,18
+I45,Laser Welding Gun Cable,12500.00,18
+I46,Laser Welding Gun Connector,2500.00,18
+I47,Laser Welding Wire Guide Tube,1800.00,18
+I48,Laser Welding Wire Roller,2200.00,18
+I49,Fiber Laser Source 20W,45000.00,18
+I50,Fiber Laser Source 30W,65000.00,18
+I51,Fiber Laser Source 50W,95000.00,18
+I52,Fiber Laser Source 100W,185000.00,18
+I53,Fiber Laser Source 200W,285000.00,18
+I54,CO2 Laser Tube 80W,18500.00,18
+I55,CO2 Laser Tube 100W,25000.00,18
+I56,CO2 Laser Tube 130W,35000.00,18
+I57,Laser Power Supply,8500.00,18
+I58,Laser Control Board,12500.00,18
+I59,Galvo Controller Card,18500.00,18
+I60,JCZ Laser Controller,28500.00,18
+I61,Laser Control Panel,9500.00,18
+I62,Industrial Servo Motor,18500.00,18
+I63,Servo Motor Driver,12500.00,18
+I64,Stepper Motor,4500.00,18
+I65,Stepper Motor Driver,3500.00,18
+I66,Industrial Emergency Stop Switch,850.00,18
+I67,Industrial Relay Module,650.00,18
+I68,Industrial Power Supply 24V,1800.00,18
+I69,Industrial Cooling Fan,950.00,18
+I70,Electrical Control Cabinet,18500.00,18
+I71,Industrial Water Chiller,45000.00,18
+I72,Laser Welding Water Chiller,65000.00,18
+I73,Industrial Air Compressor,28500.00,18
+I74,Air Dryer Unit,18500.00,18
+I75,Air Filter Regulator,2500.00,18
+I76,Industrial Exhaust Fan,12500.00,18
+I77,Laser Fume Extractor,35000.00,18
+I78,Water Cooling Pump,4500.00,18
+I79,Water Flow Sensor,1800.00,18
+I80,Water Temperature Sensor,950.00,18
+I81,Cooling Water Pipe,450.00,18
+I82,Industrial Water Filter,1200.00,18
+I83,Laser Protective Window,850.00,18
+I84,Fiber Laser Protective Lens,1500.00,18
+I85,Laser Focusing Lens,3500.00,18
+I86,Laser Collimating Lens,4500.00,18
+I87,Laser Beam Expander,12500.00,18
+I88,Laser Reflecting Mirror,1800.00,18
+I89,CO2 Laser Reflector Mirror,1200.00,18
+I90,Laser Optical Lens Cleaning Kit,950.00,18
+I91,Laser Nozzle Single Layer,250.00,18
+I92,Laser Nozzle Double Layer,350.00,18
+I93,Laser Nozzle Holder,850.00,18
+I94,Laser Ceramic Ring,950.00,18
+I95,Laser Cutting Head Protective Glass,1250.00,18
+I96,Laser Cutting Head Focusing Lens,5500.00,18
+I97,Laser Cutting Head Collimating Lens,6500.00,18
+I98,Laser Cutting Head Nozzle,450.00,18
+I99,Laser Cutting Head Sensor,8500.00,18
+I100,Laser Cutting Head Ceramic Holder,1800.00,18
+I101,Laser Safety Goggles,2500.00,18
+I102,Laser Safety Face Shield,3500.00,18
+I103,Laser Protective Viewing Window,8500.00,18
+I104,Laser Safety Curtain,12500.00,18
+I105,Laser Warning Light,1800.00,18
+I106,Laser Warning Sign Board,450.00,18
+I107,Industrial Welding Gloves,850.00,18
+I108,Heat Resistant Welding Apron,1800.00,18
+I109,Industrial Safety Shoes,2200.00,18
+I110,Laser Machine Dust Cover,1200.00,18
+I111,Industrial Ear Protection,450.00,18
+I112,Industrial Respirator Mask,950.00,18
+I113,Laser Marking Rotary Attachment,18500.00,18
+I114,Laser Marking Rotary Chuck,8500.00,18
+I115,Laser Marking Foot Switch,1200.00,18
+I116,Laser Marking Red Light Pointer,3500.00,18
+I117,Laser Machine Computer System,35000.00,18
+I118,Laser Marking Software License,18500.00,18
+I119,Laser Welding Software License,25000.00,18
+I120,Industrial USB Controller Cable,850.00,18
+I121,Fiber Laser Machine Spare Parts Kit,12500.00,18
+I122,Laser Machine Maintenance Kit,5500.00,18
+I123,Laser Machine Calibration Service,8500.00,18
+I124,Laser Machine Installation Service,12500.00,18

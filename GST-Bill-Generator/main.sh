@@ -14,10 +14,10 @@ esac
 
 while true; do
     echo
-    echo '================ GST BILL GENERATOR ================'
+    echo '================ GST BILL GENERATOR By Kaushal ================'
     echo ' 1) Create a bill by entering item codes and quantities'
     echo ' 2) Calculate GST and grand total with bc'
-    echo ' 3) Save each bill as bills/INV-<number>.txt'
+    echo ' 3) Save each bill as bills/INV-<number>.txt' 
     echo " 4) Show today's total sales"
     echo ' 5) Search a bill by invoice number'
     echo ' 6) View item catalog'
