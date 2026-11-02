@@ -1,0 +1,20 @@
+code,item,price,gst_percent
+I01,Notebook,60.00,12
+I02,Pen,10.00,18
+I03,Water Bottle,150.00,18
+I04,Pencil,5.00,5
+I05,Eraser,8.00,5
+I06,Marker,35.00,18
+I07,File Folder,45.00,12
+I08,Stapler,120.00,18
+I09,Sticky Notes,55.00,12
+I10,Highlighter,40.00,18
+I11,Ruler,20.00,5
+I12,Calculator,450.00,18
+I13,Drawing Book,85.00,12
+I14,Glue Stick,30.00,12
+I15,Scissors,90.00,18
+I16,Paper Ream,280.00,12
+I17,Desk Organizer,225.00,18
+I18,Envelope Pack,75.00,5
+I19,idk Pack,69.00,5
